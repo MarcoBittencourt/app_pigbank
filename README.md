@@ -48,10 +48,15 @@ Este projeto foi desenvolvido para fins acadêmicos e de aprendizagem.
 ## Envolvidos
 
 Gustavo Rodrigues Vieira
+
 João victor Lindberg Gomes de Moraes
+
 Joaquim Paulo Vieira de Melo
+
 José Miguel Correa Dias
+
 José Rodrigo de Santana Lima
+
 Marco Antônio Bittencourt Costa
 
 ## Diagramas
